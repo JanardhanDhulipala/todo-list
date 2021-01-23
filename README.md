@@ -1,3 +1,3 @@
 # todo-list
 
-This app demonstrates how to create a todo item and delete it by using useState hook.
+This app shows, how to create a todo item and delete it by using the useState hook.
